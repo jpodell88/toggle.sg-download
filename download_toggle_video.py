@@ -10,7 +10,7 @@ import time
 import sys
 
 # set to 1 for debugging
-debug = 0
+debug = 1
 
 # sample (m3u8 and mp4) links
 #url = "http://video.toggle.sg/en/series/i-am-a-singer/ep8/334175"
