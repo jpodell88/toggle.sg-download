@@ -95,7 +95,7 @@ for url in sys.argv[1:]:
 
 	print "[i] Obtaining output URLs ...\n"
 	urlarray = []
-	# location 1 where URLs may be found
+	# http://video.toggle.sg/en/series/super-senior/ep1/334824
 	for x in range(0,10):
 		outputurl = ""
 		try:
