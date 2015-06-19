@@ -13,7 +13,7 @@ import sys
 debug = 0
 
 # sample (m3u8 and mp4) links
-#url = "http://video.toggle.sg/en/series/sabo/ep12/327339"
+#url = "http://video.toggle.sg/en/series/i-am-a-singer/ep8/334175"
 #url = "http://video.toggle.sg/en/series/118-catch-up/ep126/328542"
 #url = "http://video.toggle.sg/zh/series/118-catch-up/webisodes/document/330134"
 
