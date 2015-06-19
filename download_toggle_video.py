@@ -13,7 +13,7 @@ import sys
 debug = 0
 
 # sample (m3u8 and mp4) links
-#url = "http://video.toggle.sg/en/series/sabo/ep12/327339"
+#url = "http://vod.toggletv.sg/vod/s/felucia/201502W-A/20150614_DORAEMON_TV_SPECIAL_EP33_PC_SS.ism"
 #url = "http://video.toggle.sg/en/series/118-catch-up/ep126/328542"
 #url = "http://video.toggle.sg/zh/series/118-catch-up/webisodes/document/330134"
 
